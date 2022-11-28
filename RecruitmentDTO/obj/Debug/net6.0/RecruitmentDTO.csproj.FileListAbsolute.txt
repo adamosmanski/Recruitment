@@ -1,0 +1,14 @@
+D:\Projekty\Recruitment\RecruitmentDTO\bin\Debug\net6.0\RecruitmentDTO.deps.json
+D:\Projekty\Recruitment\RecruitmentDTO\bin\Debug\net6.0\RecruitmentDTO.runtimeconfig.json
+D:\Projekty\Recruitment\RecruitmentDTO\bin\Debug\net6.0\RecruitmentDTO.dll
+D:\Projekty\Recruitment\RecruitmentDTO\bin\Debug\net6.0\RecruitmentDTO.pdb
+D:\Projekty\Recruitment\RecruitmentDTO\obj\Debug\net6.0\RecruitmentDTO.csproj.AssemblyReference.cache
+D:\Projekty\Recruitment\RecruitmentDTO\obj\Debug\net6.0\RecruitmentDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\Recruitment\RecruitmentDTO\obj\Debug\net6.0\RecruitmentDTO.AssemblyInfoInputs.cache
+D:\Projekty\Recruitment\RecruitmentDTO\obj\Debug\net6.0\RecruitmentDTO.AssemblyInfo.cs
+D:\Projekty\Recruitment\RecruitmentDTO\obj\Debug\net6.0\RecruitmentDTO.csproj.CoreCompileInputs.cache
+D:\Projekty\Recruitment\RecruitmentDTO\obj\Debug\net6.0\RecruitmentDTO.dll
+D:\Projekty\Recruitment\RecruitmentDTO\obj\Debug\net6.0\refint\RecruitmentDTO.dll
+D:\Projekty\Recruitment\RecruitmentDTO\obj\Debug\net6.0\RecruitmentDTO.pdb
+D:\Projekty\Recruitment\RecruitmentDTO\obj\Debug\net6.0\RecruitmentDTO.genruntimeconfig.cache
+D:\Projekty\Recruitment\RecruitmentDTO\obj\Debug\net6.0\ref\RecruitmentDTO.dll

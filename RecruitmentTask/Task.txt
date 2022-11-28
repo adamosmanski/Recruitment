@@ -1,0 +1,6 @@
+﻿1	Stworzyć klasę modelu danych								
+2	Nawiązać polaczenie do bazy danych i wypełnić kolekcje								
+3	Napelnioną kolekcje wykorzystac do wykonania za pomoca Linq posortowanego wg. wlasciwosci imie select`a napelniajac nowy model kolekcji								
+	string nazwisko;								
+	string imie;								
+4	wynik danych z powyższego zadania pogupowac wg wlasciwosci nazwisko								
